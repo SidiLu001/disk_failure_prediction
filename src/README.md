@@ -8,7 +8,7 @@ pip install -r requirement.txt
 
 ### Data Sample
 
-Due to the complex procedures of data cleaning and processing, we do not have a complete and systematic code to share for these procedures, but we present a detailed description for the guidance in the paper, , and we provide some data samples [here](https://drive.google.com/drive/folders/15UsIj9y4bc0Be-HMyX4BegUyq1HCs5LZ?usp=sharing) for the execution of models. 
+Due to the complex procedures of data cleaning and processing, we do not have a complete and systematic code to share for these procedures, but we present a detailed description for the guidance in the paper, and we provide some data samples [here](https://drive.google.com/drive/folders/15UsIj9y4bc0Be-HMyX4BegUyq1HCs5LZ?usp=sharing) for the execution of models. 
 
 
 
